@@ -1,0 +1,25 @@
+{
+  "name": "tdd-hugb",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/styrmird/TDD-HUGB.git"
+  },
+  "keywords": [
+    "school"
+  ],
+  "author": "sd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/styrmird/TDD-HUGB/issues"
+  },
+  "homepage": "https://github.com/styrmird/TDD-HUGB#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
