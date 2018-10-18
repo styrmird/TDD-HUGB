@@ -1,7 +1,7 @@
-//greeting.test.js
+// greeting.test.js
 
-const greeting = require ('./greeting');
+const greeting = require('./greeting')
 
-test("returns greeting with custom name", () => {
-expect(greeting("Bei")).toBe("Hello, Bei!");
-});
+test('returns greeting with custom name', () => {
+expect(greeting('Bei')).toBe('Hello, Bei!')
+})
