@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "clean": "rm -rf node_modules",
-    "start": "node app"
+    "start": "node server"
   },
   "repository": {
     "type": "git",
